@@ -10,3 +10,4 @@ class NumberCollection:
             if number == target:
                 return index + 1
         return -1
+
